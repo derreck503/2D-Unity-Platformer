@@ -1,0 +1,17 @@
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/obj/Debug/Assembly-CSharp.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/UnityEngine.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/UnityEditor.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Derreck/Google Drive/University of Houston/Game Art/2D Platformer/2D Platformer/Temp/bin/Debug/Mono.Cecil.Mdb.dll
