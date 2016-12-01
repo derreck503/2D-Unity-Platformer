@@ -3,5 +3,4 @@
 A simple 2D platformer built using unity. Features a combat system and on screen touch controls
 
 ![Game Start Screen](/Images/Game.png)
-![Combat](Images/gameCombat.png)
 ![Gameplay gih](Images/Gameplay.gif)
